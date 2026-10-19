@@ -1,0 +1,15 @@
+# Example values are fictional, for testing only.
+# Do not include credentials, customer data, raw secrets, or unredacted Jenkins logs.
+repository: "example-infra"
+change_title: "Update Terraform module version"
+target_environment: "production"
+bitbucket_pr_url: "https://bitbucket.example.org/projects/DEMO/repos/example-infra/pull-requests/42"
+jenkins_console_url: "https://jenkins.example.org/job/example-infra-pr/101/console"
+jenkins_build_result: "SUCCESS"
+jenkins_result_source: "Engineer copied result from Jenkins; Copilot has not verified"
+commit_sha: "a1b2c3d4"
+pr_approval: "UNVERIFIED"
+change_window: "MISSING"
+implementation_plan: "MISSING — approved runbook required"
+test_plan: "MISSING — actual acceptance criteria required"
+backout_plan: "MISSING — reviewed rollback steps required"
