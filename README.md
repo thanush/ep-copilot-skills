@@ -1,4 +1,4 @@
-# Copilot DevOps change-documentation standards (pilot v0.1)
+# Copilot DevOps change-documentation standards
 
 A **developer-level**, no-repository-change, documentation-only pilot for regulated environments using Bitbucket, Jenkins, and ServiceNow. It does not create PRs or CRs, query internal services, approve changes, run Jenkins builds, or close tasks.
 
